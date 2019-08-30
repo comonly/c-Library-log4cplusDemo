@@ -1,0 +1,9 @@
+#忽略log4cplusDemo中的生成文件
+/log4cplusDemo.opensdf
+/log4cplusDemo.sdf
+/log4cplusDemo.v11.suo
+/ipch
+/Debug/log/*
+/Debug/log4cplusDemo*
+/log4cplusDemo/Debug
+/log4cplusDemo/log/*
